@@ -27,7 +27,7 @@ Wrangling activities for this project were limited to assessing and cleaning eig
 
 ## Instructions
 
-1. Store all files in the same folder, and use Jupyter Notebook to open wrangle_act.ipynb.
+1. Save all files in the same folder, and use Jupyter Notebook to open wrangle_act.ipynb.
 2. In section *1.3 Retweets and favorites*, enter your Twitter consumer key and consumer secret.
 
 ### Obtaining Twitter Consumer API keys, and the Access Token and Access Token Secret
