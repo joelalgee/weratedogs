@@ -27,7 +27,19 @@ Wrangling activities for this project were limited to assessing and cleaning eig
 
 ## Instructions
 
-Store all files in the same folder, and use Jupyter Notebook to open wrangle_act.ipynb
+1. Store all files in the same folder, and use Jupyter Notebook to open wrangle_act.ipynb.
+2. In section *1.3 Retweets and favorites*, enter your Twitter consumer key and consumer secret.
+
+### Obtaining Twitter Consumer API keys, and the Access Token and Access Token Secret
+
+1. First, if you do not already have one, you need to sign up for a Twitter account.
+2. Next, to set up a developer account, follow the directions on Twitter’s Developer Portal, in the “How to Apply” section.
+3. You will be guided through the steps, and asked to describe in your own words what you are building.
+4. Once you submit your application, you should soon receive an email from Twitter letting you know they have approved your new Twitter developer account. Follow the link in the email from Twitter to a page of directions to get started creating your app.
+5. If you are asked for an app name, it can be anything appropriate, and if you’re asked for a Website URL, it can be anything in a standard URL format. You can do the same with other requested URLs, or perhaps leave them blank.
+6. If you’re asked to explain how your app will be used, you could say something like "I'm creating this for a student Data Wrangling project, where we need to query and analyze Twitter data from WeRateDogs."
+7. You should then be given a Success message, and a new developer page displayed to you where you can manage your app.
+8. You can then go to the Keys and Tokens tab on this page to find or generate the Consumer API keys, and the Access Token and Access Token Secret that you will need.
 
 ## Files
 
