@@ -1,4 +1,4 @@
-# WeRateDogs Twitter Data Wrangling & Analysis
+# WeRateDogs Twitter Data Wrangling & Analysis - September 2020
 
 Wrangling, analysing and visualising Twitter data from WeRateDogs, using Python
 
